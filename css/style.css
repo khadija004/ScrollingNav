@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+#first{
+    padding:0 10px;
+    height: 55px;
+    overflow: hidden;
+    background-color: #212529;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    
+  }
+  #ulsecond li{
+      float: right;
+      list-style: none;
+
+  }
+  #ulsecond li a{
+      color: #9B9C8E;
+      text-align: center;
+      padding: 16px;
+}
+#first h1 a{
+    color: #fff;
+    font-weight: 5;
+    font-size: 20px;
+}
+#first h1{
+    font-size: 1.25rem;
+}
+#second{
+    background-color: #277DFD;
+    padding: 130px;
+    text-align: center;
+
+}
+#second h1{
+    font-size: 40px;
+    color: #fff;
+    
+}
+#second p{
+    font-size: 20px;
+    font-weight: 10;
+    margin-bottom: 40px;
+    color: #fff;  
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#second a{  
+    padding: 10px 15px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.5s;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#third{  
+    
+    padding: 150px;   
+    margin-left: 100px; 
+}
+#third h2{
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+    font-size: 30px;
+}
+#third p{
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 16px;
+}
+#third ul{
+    margin-left: 30px;
+}
+#forth{
+    background-color: rgba(248, 249, 250, 1);
+    padding: 150px;
+}
+#forth p{
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 16px;
+    margin-left: 100px;
+}
+#forth h2{
+    margin-left: 100px;
+    font-weight: 400;
+    
+}
+#fifth{
+    padding: 150px;
+    margin-left: 100px;
+}
+#fifth p{
+    color: #212529;
+}
+
+#sixth{
+    background-color: rgba(33, 37, 41, 1);
+    text-align: center;
+    padding: 3rem 0 3rem 0;
+    }
+#sixth h3{
+    color: rgba(255,255,255,1);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
